@@ -1,0 +1,6 @@
+regex
+beautifulsoup4
+pandas
+requests
+pymongo
+lxml
